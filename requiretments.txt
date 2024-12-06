@@ -1,0 +1,8 @@
+MetaTrader5>=5.0.45
+asyncio>=3.4.3
+typing>=3.7.4.3
+gymnasium==1.0.0
+stable-baselines3==2.4.0
+torch==2.0.1
+pandas==2.0.3
+numpy==1.24.3
